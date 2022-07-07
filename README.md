@@ -5,9 +5,9 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 ![İlk projem](github.png)
 
 # Installation
-
    Öncelikle projeyi klonlayın
-        > https://github.com/ademaskan/kodluyoruzilkrepo.git
+    
+        git clone https://github.com/ademaskan/kodluyoruzilkrepo.git
 
 # Usage
 
@@ -15,8 +15,8 @@ projeyi klonladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-> cd kodluyoruzilkrepo <br>
-> code .
+      cd kodluyoruzilkrepo <br>
+      code .
 
 # Contributing
 
