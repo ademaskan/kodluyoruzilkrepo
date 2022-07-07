@@ -6,7 +6,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 # Installation
 
-    Öncelikle projeyi klonlayın
+   Öncelikle projeyi klonlayın
         > https://github.com/ademaskan/kodluyoruzilkrepo.git
 
 # Usage
